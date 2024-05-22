@@ -1,0 +1,15 @@
+:root {
+    --vermelho: #9f2E1c;
+    --amarelo: #f6a216;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+}
+
+nav {
+    margin-bottom:30px;
+    font-weight: 550;
+    background-color: var(--amarelo);
+}
